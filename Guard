@@ -1,4 +1,4 @@
-# Telegram-Based Private Key Management with Shamir Secret Sharing (SSS)
+# Guard: Telegram-Based Private Key Management with Shamir Secret Sharing (SSS)
 
 ## Overview
 This project aims to create a **decentralized, user-friendly private key management system** using Telegram as the communication layer and Shamir Secret Sharing (SSS) for secure key distribution. Users generate private keys **client-side**, split them into shards, and distribute the shards to **guardians** (other Telegram users) who stake tokens to participate. The system is lightweight, secure, and does not require expensive infrastructure.
